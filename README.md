@@ -2,7 +2,7 @@
 - 👀 I’m interested in algorithmic minting
 - 🌱 I’m currently learning object oriented programming using python
 - 💞️ I’m looking to collaborate on nothing as of now
-- 📫 How to reach me N/A
+- 📫 How to reach me : harshitrsharma@gmail.com
 
 
 <!---
